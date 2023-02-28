@@ -6,6 +6,7 @@ body {
 
 header {
     background-color: white;
+    margin-bottom: 50px;
 }
 
 #logo {
@@ -22,7 +23,7 @@ h1 {
 
 .buttons {
     max-width: 800px;
-    margin: 50px auto;
+    margin: 0px auto;
     padding: 15px 60px;
     background-color: white;
     border-radius: 5px;
@@ -47,6 +48,25 @@ h1 {
     border-radius: 5px;
     font-size: 15px;
 }
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background: white;
+    padding: 40px 60px;
+}
+
+h2 {
+    font-size: 28px;
+    color: rgba(68,72,81,255);
+}
+
+section {
+    line-height: 2em;
+    font-size: 22px;
+}
+
+.done
 
 
 
