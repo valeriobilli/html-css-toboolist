@@ -78,6 +78,42 @@ section {
     border-radius: 50%;
 }
 
+.category {
+    color: white;
+    border-radius: 20px;
+    height: 2em;
+}
+
+.editorial {
+    background-color: rgba(69,171,234,255);
+    border: 1px solid rgba(69,171,234,255);
+}
+
+.goals {
+    background-color: rgba(156,114,228,255);
+    border: 1px solid rgba(156,114,228,255);
+}
+
+.recruiting {
+    background-color: rgba(100,192,169,255);
+    border: 1px solid rgba(100,192,169,255);
+}
+
+.mobile {
+    background-color: rgba(242,158,51,255);
+    border: 1px solid rgba(242,158,51,255);
+}
+
+.website {
+    background-color: rgba(216,99,161,255);
+    border: 1px solid rgba(216,99,161,255);
+}
+
+.sales {
+    background-color: rgba(176,201,38,255);
+    border: 1px solid rgba(176,201,38,255);
+}
+
 
 
 
